@@ -1,4 +1,5 @@
-Sistem Informasi Restoran
+Project Sistem Informasi Restoran
+
 
 Identitas
 
@@ -6,36 +7,48 @@ Nama : Ardiansyah
 
 NIM : 231011402414
 
-Database
+Objek/Domain : Restoran
 
-db_restoran_231011402414
+Deskripsi
+
+Aplikasi Sistem Informasi Restoran berbasis Java Swing dan MySQL yang digunakan untuk mengelola data menu restoran.
 
 Fitur
 
 * Login
-* CRUD Data Menu Restoran
-* Pencarian Data
-* Sorting Data
-* Cetak Data
+* Tambah Data Menu
+* Ubah Data Menu
+* Hapus Data Menu
+* Cari Data Menu
+* Cetak Data Menu
 * Logout
-* JDBC MySQL
-* MVC dan DAO Pattern
 
 Teknologi
 
 * Java Swing
 * Apache NetBeans 25
 * MySQL (XAMPP)
-* JDBC Connector
+* JDBC
+* MVC
+* DAO
 
-Struktur Project
+Database
 
-* config
-* dao
-* model
-* view
-* test
+Nama Database:
+
+db_restoran_231011402414
+
+Cara Menjalankan
+
+1. Import database MySQL.
+2. Jalankan XAMPP (Apache dan MySQL).
+3. Buka project di NetBeans.
+4. Jalankan Main.java.
+5. Login menggunakan akun yang tersedia.
 
 Author
 
 Ardiansyah - 231011402414
+
+Login Berhasil
+
