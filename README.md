@@ -49,10 +49,12 @@ Cara Menjalankan
 Author
 
 Ardiansyah - 231011402414
-<img width="319" height="281" alt="image" src="https://github.com/user-attachments/assets/2b2802d8-8db2-4466-ac04-36455258b0fa" />
 
-<img width="703" height="522" alt="image" src="https://github.com/user-attachments/assets/79eb4b15-33a8-472f-8652-ab3ed55347ac" />
+<img width="319" height="281" alt="Screenshot 2026-06-20 205753" src="https://github.com/user-attachments/assets/5bc06364-24fe-429b-a758-2c1d1323c9e3" />
+<img width="352" height="261" alt="Screenshot 2026-06-20 205935" src="https://github.com/user-attachments/assets/5d997a4e-f5dc-42bf-b1e5-c31b3ad541bd" />
+<img width="322" height="507" alt="Screenshot 2026-06-20 210033" src="https://github.com/user-attachments/assets/571740b0-6cd9-4848-bf12-9d48d3dd52c0" />
 
-<img width="643" height="1014" alt="image" src="https://github.com/user-attachments/assets/fce7e8ae-5e22-4f26-8fb6-25d03e2b212c" />
+
+
 
 
